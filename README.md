@@ -1,6 +1,6 @@
-![Header](./github-header-image.png)
+![Image](https://github.com/user-attachments/assets/e2ecdef1-7011-4cfd-b612-72bcf7f5df94)
 
-## Olá, eu sou o Matheus Fonseca
+## Matheus Fonseca
 
 <div>
   <a href="https://github.com/Matheus-MCF" target="_blank">
@@ -15,6 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Matheus-MCF&show_icons=true&theme=transparent&count_private=true&hide_border=true" align="left" style="width: 100%" />
   </td><td valign="top" width="50%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-MCF&theme=transparent&hide_border=true&layout=compact" align="left" style="width: 100%" />
+  
 </td></tr></table>  
 
 <div align="left">
